@@ -1,4 +1,4 @@
-package com.example.demo.application;
+package com.krauspavel.himport.application;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

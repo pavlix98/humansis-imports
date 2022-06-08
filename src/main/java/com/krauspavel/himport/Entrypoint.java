@@ -1,7 +1,7 @@
-package com.example.demo;
+package com.krauspavel.himport;
 
-import com.example.demo.application.Consumer;
-import com.example.demo.application.Web;
+import com.krauspavel.himport.application.Consumer;
+import com.krauspavel.himport.application.Web;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.WebApplicationType;
 import org.springframework.boot.builder.SpringApplicationBuilder;

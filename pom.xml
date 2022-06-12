@@ -11,8 +11,8 @@
 	<groupId>com.krauspavel</groupId>
 	<artifactId>himport</artifactId>
 	<version>0.1</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Humansis import</name>
+	<description>Humansis import</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
